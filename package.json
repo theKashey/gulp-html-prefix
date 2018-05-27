@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/johnotander/gulp-class-prefix",
   "dependencies": {
-    "through2": "^0.6.3"
+    "through2": "^2.0.3"
   },
   "devDependencies": {
     "gulp-util": "^3.0.1",
-    "mocha": "^2.1.0"
+    "mocha": "^5.2.0"
   }
 }
