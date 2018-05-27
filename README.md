@@ -1,4 +1,4 @@
-# gulp-html-prefix [![Build Status](https://travis-ci.org/thekashey/gulp-html-prefix.svg?branch=master)](https://travis-ci.org/thekashey/gulp-html-prefix)
+# gulp-html-prefix [![Build Status](https://travis-ci.org/thekashey/gulp-html-prefix.svg?branch=master)](https://travis-ci.org/thekashey/gulp-html-prefix) [![Greenkeeper badge](https://badges.greenkeeper.io/theKashey/gulp-html-prefix.svg)](https://greenkeeper.io/)
 
 Gulp plugin to prefix classes in a HTML file.
 
